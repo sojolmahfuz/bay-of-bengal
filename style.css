@@ -141,7 +141,7 @@
 }
 #About-section{
     width: 100%;
-    min-height: 100vh;
+    height: 200vh;
     background-color: rgb(248, 237, 237);
 }
 .container-3{
@@ -411,3 +411,4 @@ footer{
   }
 }
 /* =========================Footer Section End==================== */
+
