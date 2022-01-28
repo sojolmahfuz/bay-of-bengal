@@ -446,3 +446,6 @@ footer{
 .new-content{
   margin-top: 40%;
 }
+#justify{
+  text-align: justify;
+}
