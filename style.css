@@ -177,6 +177,30 @@
     height: 100vh;
     background-color: rgb(248, 237, 237);
 }
+.advantages{
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    font-weight: 500;
+    text-align: justify;
+}
+.policy{
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    font-weight: 500;
+    text-align: justify;
+}
+.values{
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    font-weight: 500;
+    text-align: justify;
+}
 .about-para{
     text-align: center;
     padding: 5%;
